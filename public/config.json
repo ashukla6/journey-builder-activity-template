@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "9191f436-ff7c-48ac-a977-f941d812314e",
+      "applicationExtensionKey": "541d08a3-7710-425a-ab90-1de97c806f7d",
       "save": {
         "url": "https://mc.s7.exacttarget.com/journeybuilder/save",
           "verb": "POST",
