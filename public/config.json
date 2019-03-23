@@ -17,7 +17,7 @@
         "execute": {
            "inArguments":[
 				{
-                    "emailAddress": "{{Contact.Attribute.PostCard001.EmailAddress}}"
+                    "emailAddress": "{{Contact.Attribute.PostCard.EmailAddress}}"
                 }									
 			],
           "outArguments": [],
